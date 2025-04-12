@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.log
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+gradio-env/
+
+# Gradio
+.gradio/
+gradio/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Hugging Face and Gradio
+*.huggingface
+*.gradio
+token
+
+# Model/Data files
+*.ckpt
+*.pt
+*.pth
+*.h5
+*.tflite
+*.pb
+*.onnx
+*.joblib
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.tar
+*.tar.gz
+*.zip
+*.gz
+*.rar
+
+# LFS-tracked artifacts
+*.lfs.*
