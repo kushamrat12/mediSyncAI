@@ -161,16 +161,17 @@ with gr.Blocks() as MediSyncAI:
 
     with gr.Tab("💬 Chat with MediSync"):
         chatbot = gr.ChatInterface(
-            fn=chat_with_medisync,
-            type="messages",
-            title="MediSync-AI Chatbot",
-            chatbot=gr.Chatbot(label="MediSync"),
-            textbox=gr.Textbox(placeholder="Type your medical question here...", label="Your question"),
-            theme="compact",
-        )
+        fn=chat_with_medisync,
+        type="messages",
+        title="MediSync-AI Chatbot",
+        chatbot=gr.Chatbot(label="MediSync", type="messages"),
+        textbox=gr.Textbox(placeholder="Type your medical question here...", label="Your question"),
+        theme="default", 
+    )
+
 
 #MediSyncAI.launch()
 if __name__ == "__main__":
 	# Launch the Gradio app	
-    MediSyncAI.launch(share=True, debug=True)
+    MediSyncAI.launch()
 	# Uncomment the line below to run the app locally without sharing	
