@@ -170,8 +170,6 @@ with gr.Blocks() as MediSyncAI:
     )
 
 
-#MediSyncAI.launch()
 if __name__ == "__main__":
-	# Launch the Gradio app	
-    MediSyncAI.launch()
-	# Uncomment the line below to run the app locally without sharing	
+    # Launch the Gradio app with a public link
+    MediSyncAI.launch(share=True)
