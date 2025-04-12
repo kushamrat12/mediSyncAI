@@ -82,10 +82,13 @@ GenAI bridges the literacy and accessibility gap by:
 ## 📂 File Structure
 
 ```
-mediSync-AI/
+mediSyncAI/
 │
-├── main.ipynb              # Jupyter notebook with the full GenAI flow
-├── requirements.txt        # Dependencies
+├── app.py
+├── medisync-ai.ipynb            
+├── requirements.txt
+├── .gitignore
+├── .gitattributes       
 ├── data/
 │   └── img1.jpg
 │   └── img2.jpg
@@ -101,20 +104,20 @@ mediSync-AI/
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Sarita-021/mediSync-AI.git
-cd mediSync-AI
+git clone https://github.com/Sarita-021/mediSyncAI.git
+cd mediSyncAI
 ```
 
 2. Install requirements
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 3. Run the notebook or script
 
 ```bash
-jupyter notebook main.ipynb
+python3 app.py
 ```
 
 4. Upload a prescription image & start chatting with the bot 🎯
@@ -129,9 +132,10 @@ jupyter notebook main.ipynb
 
 ## 📸 Demo Screenshot
 
-![image](https://github.com/user-attachments/assets/5a495bdf-f61b-4c0c-b772-e66a14d7f051)
+![image](https://github.com/user-attachments/assets/e2dea5d5-7b5a-4c4c-8776-e89ab3e4aaec)
 
-![image](https://github.com/user-attachments/assets/c09139ea-7877-4246-97c9-3e580005ef39)
+
+![image](https://github.com/user-attachments/assets/c2ae08e2-fa81-49d3-94af-7791c25725b7)
 
 ---
 
