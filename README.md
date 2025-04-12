@@ -1,5 +1,5 @@
 ---
-title: MdeiSyncAI
+title: MediSyncAI
 emoji: 🏆
 colorFrom: pink
 colorTo: yellow

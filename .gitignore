@@ -12,6 +12,8 @@ env/
 ENV/
 gradio-env/
 
+.env
+
 # Gradio
 .gradio/
 gradio/
