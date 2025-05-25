@@ -16,11 +16,11 @@
     "papermill": {
      "duration": 1.869524,
      "end_time": "2025-04-10T12:39:40.727823",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:38.858299",
      "status": "completed"
     },
-    "scrolled": true,
+    "scrolled": True,
     "tags": []
    },
    "outputs": [],
@@ -51,7 +51,7 @@
     "papermill": {
      "duration": 0.003574,
      "end_time": "2025-04-10T12:39:40.735704",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.732130",
      "status": "completed"
     },
@@ -81,7 +81,7 @@
     "papermill": {
      "duration": 0.003458,
      "end_time": "2025-04-10T12:39:40.743150",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.739692",
      "status": "completed"
     },
@@ -99,7 +99,7 @@
     "papermill": {
      "duration": 0.003648,
      "end_time": "2025-04-10T12:39:40.750749",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.747101",
      "status": "completed"
     },
@@ -125,7 +125,7 @@
     "papermill": {
      "duration": 0.003501,
      "end_time": "2025-04-10T12:39:40.758115",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.754614",
      "status": "completed"
     },
@@ -161,7 +161,7 @@
     "papermill": {
      "duration": 0.003449,
      "end_time": "2025-04-10T12:39:40.765249",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.761800",
      "status": "completed"
     },
@@ -178,7 +178,7 @@
     "papermill": {
      "duration": 0.00343,
      "end_time": "2025-04-10T12:39:40.772448",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.769018",
      "status": "completed"
     },
@@ -216,11 +216,11 @@
     "papermill": {
      "duration": 103.946402,
      "end_time": "2025-04-10T12:41:24.722539",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:39:40.776137",
      "status": "completed"
     },
-    "scrolled": true,
+    "scrolled": True,
     "tags": []
    },
    "outputs": [
@@ -506,7 +506,7 @@
     "papermill": {
      "duration": 0.035728,
      "end_time": "2025-04-10T12:41:24.794543",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:24.758815",
      "status": "completed"
     },
@@ -530,11 +530,11 @@
     "papermill": {
      "duration": 16.583233,
      "end_time": "2025-04-10T12:41:41.414603",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:24.831370",
      "status": "completed"
     },
-    "scrolled": true,
+    "scrolled": True,
     "tags": []
    },
    "outputs": [],
@@ -560,7 +560,7 @@
     "papermill": {
      "duration": 0.035736,
      "end_time": "2025-04-10T12:41:41.487309",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:41.451573",
      "status": "completed"
     },
@@ -590,7 +590,7 @@
     "papermill": {
      "duration": 0.498242,
      "end_time": "2025-04-10T12:41:42.091038",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:41.592796",
      "status": "completed"
     },
@@ -609,7 +609,7 @@
     "papermill": {
      "duration": 0.036583,
      "end_time": "2025-04-10T12:41:42.164665",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:42.128082",
      "status": "completed"
     },
@@ -633,7 +633,7 @@
     "papermill": {
      "duration": 0.045459,
      "end_time": "2025-04-10T12:41:42.247885",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:42.202426",
      "status": "completed"
     },
@@ -699,7 +699,7 @@
     "papermill": {
      "duration": 0.036349,
      "end_time": "2025-04-10T12:41:42.321816",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:42.285467",
      "status": "completed"
     },
@@ -723,7 +723,7 @@
     "papermill": {
      "duration": 0.077791,
      "end_time": "2025-04-10T12:41:42.437051",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:42.359260",
      "status": "completed"
     },
@@ -750,7 +750,7 @@
     "papermill": {
      "duration": 1.767306,
      "end_time": "2025-04-10T12:41:44.241756",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:42.474450",
      "status": "completed"
     },
@@ -813,7 +813,7 @@
     "papermill": {
      "duration": 0.03661,
      "end_time": "2025-04-10T12:41:44.315470",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:44.278860",
      "status": "completed"
     },
@@ -837,7 +837,7 @@
     "papermill": {
      "duration": 1.545711,
      "end_time": "2025-04-10T12:41:45.897584",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:44.351873",
      "status": "completed"
     },
@@ -903,13 +903,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "8e301983",
    "metadata": {
     "papermill": {
      "duration": 0.037968,
      "end_time": "2025-04-10T12:41:51.886595",
-     "exception": false,
+     "exception": False,
      "start_time": "2025-04-10T12:41:51.848627",
      "status": "completed"
     },
@@ -930,8 +930,8 @@
     }
    ],
    "dockerImageVersionId": 31012,
-   "isGpuEnabled": false,
-   "isInternetEnabled": true,
+   "isGpuEnabled": False,
+   "isInternetEnabled": True,
    "language": "python",
    "sourceType": "notebook"
   },
@@ -957,7 +957,7 @@
    "duration": 140.358489,
    "end_time": "2025-04-10T12:41:54.546120",
    "environment_variables": {},
-   "exception": null,
+   "exception": None,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
